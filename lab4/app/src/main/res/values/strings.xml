@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Музыкальный плеер</string>
+    <string name="buy">Купить</string>
+    <string name="download">Скачать</string>
+    <string name="descOrder">Введите ваши данные, чтобы купить и скачать мелодию</string>
+    <string name="numberCard">Номер карты</string>
+    <string name="yearCard">Дата выдачи карты</string>
+    <string name="CVCCard">CVC карты</string>
+
+
+    <string name="listenMusic">Воспроизведение</string>
+    <string name="buyMusic">Покупка мелодии</string>
+    <string name="descTolibrarySongs">Чтобы прослушать, нажмите на песню в списке</string>
+</resources>
